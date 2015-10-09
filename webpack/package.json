@@ -1,0 +1,25 @@
+{
+  "name": "react-rails-example",
+  "version": "1.0.0",
+  "description": "react-rails-example",
+  "main": ".js",
+  "engines": {
+    "node": "0.12.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "jquery-ujs": "^1.1.0-1",
+    "react": "^0.13.3",
+    "webpack": "^1.12.1"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
+    "cytoscape": "^2.4.8",
+    "path": "^0.12.7",
+    "webpack-dev-server": "^1.12.0"
+  }
+}
